@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "0496FF" # Royal blue
+backgroundColor = "black"
+secondaryBackgroundColor = "2D2E2E" # Grey
+textColor = "FBFCFF" # White
+font = "sans serif"
